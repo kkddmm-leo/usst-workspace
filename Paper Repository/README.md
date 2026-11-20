@@ -24,17 +24,17 @@
 
 所有上传的论文统一采用以下命名格式：
 
-**`年份-期刊简写_论文简称_分享者.pdf`**
+**`年份-期刊简写-论文简称-分享者.pdf`**
 
 英文表示：
 
-`Year-JournalAbbreviation_ShortTitle_Contributor.pdf`
+`Year-JournalAbbreviation-ShortTitle-Contributor.pdf`
 
 例如：
 
-- `2025-TRO_UAVRouting_lzy.pdf`
-- `2024-TRC_DroneDelivery_ry.pdf`
-- `2026-EJOR_RouteOptimization_wh.pdf`
+- `2025-TRO-UAVRouting-lzy.pdf`
+- `2024-TRC-DroneDelivery-ry.pdf`
+- `2026-EJOR-RouteOptimization-wh.pdf`
 
 其中：
 
@@ -45,7 +45,7 @@
 
 如果同一篇论文由多位成员共同推荐，可以在文件名中包含多个成员缩写，例如：
 
-`2025-TRO_UAVRouting_lzy_ry.pdf`
+`2025-TRO-UAVRouting-lzy-ry.pdf`
 
 ### 3. 更新论文索引
 
